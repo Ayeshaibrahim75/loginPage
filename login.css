@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(33, 32, 109);
+} 
+.LOGIN_PAGE{
+    background-color: rgb(54, 49, 131);
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.heading{
+    color: white;
+    padding-left: 100px;
+   
+}
+.username{
+    
+    border-radius: 20px;
+    border : 1px solid white;
+    line-height: 25px;
+    padding-left: 10px;
+}
+.password{
+   
+    border-radius: 20px;
+    border : 1px solid white;
+    line-height: 25px;
+    padding-left: 10px;
+}
+.login{
+    margin-left: 150px;
+    padding: 5px 70px 5px 70px;
+    border-radius: 20px;
+    border : 1px solid white;
+}
+.img-1{
+    margin-left: 100px;
+    margin-top: 5px;
+}
+.img-2{
+    margin-left: 100px;
+    margin-top: 5px;
+}
